@@ -1,1 +1,1 @@
-# -Smart-Beta-Factor-Portfolio-Optimization
+# Smart-Beta-Factor-Portfolio-Optimization
